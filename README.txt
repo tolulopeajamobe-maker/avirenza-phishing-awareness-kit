@@ -1,16 +1,18 @@
-# AVIRENZA Cybersecurity Awareness Kit — Phishing Samples
+# AVIRENZA Cybersecurity Awareness Kit — Training Deck
 
-Five one-page annotated phishing email examples in a modern cybersecurity visual style using navy blue, white and red.
+## What this contains
+- `awareness-training.pdf`: 15-slide presentation for a 30-minute staff awareness session.
+- `awareness-training-editable.pptx`: editable PowerPoint source. Speaker notes are included in the PowerPoint notes pane.
 
-## Files
-- 01-display-name-spoof.pdf
-- 02-fake-login-page.pdf
-- 03-urgent-payment.pdf
-- 04-fake-delivery.pdf
-- 05-spear-phishing.pdf
+## Design
+Modern cybersecurity style using navy blue, white and red.
 
-## Safety and ethics
-Every email, name, institution, address, amount and link in this kit is fictional. The `.invalid` domain is reserved for invalid examples. No real person or organisation was involved or targeted. Do not click or visit the example links.
+## Open
+- PDF: open in any PDF reader.
+- PPTX: open in Microsoft PowerPoint, LibreOffice Impress, or import into Google Slides. Use the Notes view to read the trainer script.
 
-## Use
-Open each PDF in any PDF reader or print it for the training session. Each page contains the sample email, red-flag callouts and the safer response.
+## Trainer preparation
+Before delivering the session, replace the generic reporting instruction on slide 12 with the college's actual approved reporting route. Do not invent a helpdesk email or reporting button.
+
+## Fictional-content statement
+All examples, names, institutions and links in this awareness kit are fictional. Example links use the reserved `.invalid` domain. No real person or organisation was involved or targeted.
