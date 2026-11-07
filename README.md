@@ -1,61 +1,96 @@
-# AVIRENZA Cybersecurity Internship — Task 3
-## Phishing Awareness Kit (30-minute session)
+ AVIRENZA Cybersecurity Internship — Task 3
 
-A ready-to-adapt phishing-awareness kit for a 30-minute session with 20 college administrative staff. The visual theme is modern cybersecurity: navy blue, white and red.
+Phishing Awareness Kit
 
-> **Fictional scenario notice:** Greenfield College, all people, email addresses, domains, messages and amounts in this kit are fictional. The `.invalid` domain is used for examples. No real person or organisation was targeted. Do not click or use any example link.
+A ready-to-use phishing awareness training kit designed for a 30-minute session with 20 college administrative staff.
 
-## Contents
+Design theme: Modern cybersecurity — navy blue, white and red.
 
-- `phishing-samples/` — five annotated fictional phishing email examples, each with red flags and a safe response.
-- `training-deck/awareness-training.pdf` — 15-slide presentation.
-- `training-deck/awareness-training-editable.pptx` — editable PowerPoint with speaker notes.
-- `quiz/quiz.md` — ten-question quiz, answer key and explanations for every option.
-- `desk-card/phishing-desk-reference-card.pdf` — one-page, single-sided A4 desk reference.
-- `measurement-plan.md` — evaluation metrics, schedule, privacy safeguards and strict consent-first simulation policy.
-- `assets/` — two annotated email preview images and one deck slide preview for quick review.
+Fictional Scenario Notice
 
-## Quick start
+Greenfield College, all names, email addresses, domains, messages and amounts used in this project are fictional. The .invalid domain is reserved for examples. No real person or organisation was targeted. Do not click or use any example link.
 
-1. Review the five examples and the 15-slide deck.
-2. Before presenting, ask the organisation's IT coordinator to insert the real, approved phishing-reporting route on slide 12 and confirm local incident procedures.
-3. Deliver the 30-minute session using the speaker notes.
-4. Use the quiz before/after training if desired; keep results anonymous and report them in aggregate.
-5. Print the desk card single-sided on A4.
-6. Use the measurement plan to evaluate learning and improve the programme.
+Project Contents
 
-## Suggested 30-minute delivery
+All deliverables are uploaded directly to the main repository directory.
 
-- 0–3 min: opening and why phishing matters
-- 3–10 min: common tactics and red flags
-- 10–18 min: sender, links, requests and attachments
-- 18–24 min: guided review of fictional examples
-- 24–28 min: reporting, passwords and MFA
-- 28–30 min: recap and next steps
+1. Annotated Phishing Email Samples
 
-## Setup / use
+Five fictional phishing email examples, each containing red flags and a recommended safe response:
 
-No software installation or code execution is required to use the training materials. Open the PDF files with any PDF reader and the `.pptx` file with Microsoft PowerPoint or a compatible presentation app. The quiz and measurement plan are Markdown text files and can be opened in any text or Markdown editor.
+* 01-display-name-spoof.pdf
+* 02-fake-login-page.pdf
+* 03-urgent-payment.pdf
+* 04-fake-delivery.pdf
+* 05-spear-phishing.pdf
 
-## Safety, consent and reporting
+2. Training Presentation
 
-- Do not send unsolicited test emails.
-- Any live simulation requires prior informed voluntary consent from every recipient, written management approval, an approved scope and a debrief. See `measurement-plan.md`.
-- The preferred practice activity is a facilitated tabletop using the fictional examples.
-- Do not collect passwords, one-time codes, MFA approvals or payment details.
-- Replace the placeholder reporting guidance with the organisation's actual approved route before training. Never invent an IT email address or helpdesk URL.
+* awareness-training.pdf — 15-slide training presentation.
+* awareness-training-editable.pptx — editable PowerPoint presentation with speaker notes.
 
-## Preview images
+3. Knowledge Assessment
 
-### Annotated example: display-name spoof
-![Fictional display-name spoof email](assets/sample-display-name-spoof.png)
+* quiz.md — ten multiple-choice questions, answer key and explanations for every answer option.
 
-### Annotated example: fake login request
-![Fictional fake-login email](assets/sample-fake-login.png)
+4. Desk Reference
 
-### Training deck — opening slide
-![Training deck opening slide](assets/training-slide-01.png)
+* phishing-desk-reference-card.pdf — single-sided A4 phishing awareness desk card.
 
-## Repository upload
+5. Measurement and Evaluation
 
-Create a new GitHub repository (for example, `avirenza-phishing-awareness-kit`), then upload the contents of this folder. Keep the folder structure intact so the preview images render in this README. A public repository is not required unless the internship instructions explicitly request one.
+* measurement-plan.md — evaluation metrics, assessment schedule, privacy safeguards and consent requirements for any simulated phishing exercise.
+
+6. Visual Preview Assets
+
+* sample-display-name-spoof.png
+* sample-fake-login.png
+* training-slide-01.png
+
+7. Submission Documentation
+
+* SUBMISSION-CHECKLIST.md — project completion and review checklist.
+* README.txt — supplementary project information.
+
+Suggested 30-Minute Training Schedule
+
+Duration	Topic
+0–3 minutes	Introduction and why phishing matters
+3–10 minutes	Common phishing tactics and warning signs
+10–18 minutes	Checking senders, links, requests and attachments
+18–24 minutes	Guided review of fictional phishing examples
+24–28 minutes	Reporting suspicious messages, passwords and MFA
+28–30 minutes	Recap and key takeaways
+
+How to Use the Materials
+
+1. Review the five annotated phishing examples.
+2. Present the 15-slide training deck using its speaker notes.
+3. Before presenting, ask the organisation’s IT coordinator to insert the approved phishing-reporting procedure on slide 12.
+4. Use the quiz for a knowledge assessment before or after training.
+5. Print the desk reference card on A4 paper.
+6. Use the measurement plan to evaluate learning outcomes and improve the programme.
+
+Safety, Consent and Ethical Considerations
+
+* Do not send unsolicited phishing test emails.
+* Any live phishing simulation requires prior informed voluntary consent from every recipient, written management approval, an approved scope and a debrief.
+* The preferred practice activity is a facilitated tabletop exercise using the fictional examples.
+* Never collect passwords, one-time codes, MFA approvals or payment details.
+* Always use the organisation’s actual approved reporting channel. Do not invent an IT email address or helpdesk URL.
+
+Tools and Requirements
+
+No software installation or code execution is required.
+
+* PDF files can be opened with any compatible PDF reader.
+* The PowerPoint presentation can be opened with Microsoft PowerPoint or compatible presentation software.
+* Markdown files can be viewed in GitHub or any Markdown editor.
+
+Project Objective
+
+The objective of this kit is to improve phishing awareness among college administrative staff by teaching them how to recognise suspicious messages, identify social engineering techniques, respond safely and report suspected phishing attempts through approved channels.
+
+Prepared for: AVIRENZA Cybersecurity Internship — Task 3
+
+Repository: avirenza-phishing-awareness-kit
